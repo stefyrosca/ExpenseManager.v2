@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user id="1">
+        <username>root</username>
+        <password>root</password>
+    </user>
+    <user id="3">
+        <username>ana</username>
+        <password>ana</password>
+    </user>
+    <user id="4">
+        <username>andrei</username>
+        <password>andrei</password>
+    </user>
+    <user id="5">
+        <username>zzz</username>
+        <password>zzz</password>
+    </user>
+    <user id="8">
+        <username>abcd</username>
+        <password>abcd</password>
+    </user>
+</users>

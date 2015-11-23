@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<expenses>
+    <expense id="1">
+        <title>aaa</title>
+        <price>18.0</price>
+        <type>Others</type>
+        <user id="2">
+            <username>abc</username>
+            <password>abcde</password>
+        </user>
+        <date>
+            <day>10</day>
+            <month>10</month>
+            <year>2014</year>
+        </date>
+    </expense>
+    <expense id="2">
+        <title>abc</title>
+        <price>17.0</price>
+        <type>Food</type>
+        <user id="3">
+            <username>ana</username>
+            <password>ana</password>
+        </user>
+        <date>
+            <day>10</day>
+            <month>10</month>
+            <year>2014</year>
+        </date>
+    </expense>
+</expenses>
